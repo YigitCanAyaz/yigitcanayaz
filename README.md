@@ -3,11 +3,11 @@
 <br/> <br/>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
 
-- 🧑‍🎓 Currently a last-year student at Istanbul Bilgi University.
+- 🧑‍🎓 Fresh graduated as an honor student at Istanbul Bilgi University.
 
 <br/>
 
-- 💼 Have been writing code by myself for 4 years, <br/> plus have been in professional business life for more than 2 years.
+- 💼 Have been writing code by myself for 5-6 years, <br/> plus have been in professional business life for almost 3 years.
 
 <br/>
 
